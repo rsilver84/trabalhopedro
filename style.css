@@ -1,0 +1,7 @@
+.flex-menu{
+    display: flex;
+    flex: 1;
+    position: relative;
+    justify-content: space-between;
+    width: 70%;
+}
