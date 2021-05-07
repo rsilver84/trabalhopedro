@@ -5,3 +5,7 @@
     justify-content: space-between;
     width: 70%;
 }
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
