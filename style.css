@@ -1,9 +1,19 @@
+a{
+    font-style: none;
+}
 .flex-menu{
     display: flex;
     flex: 1;
-    position: relative;
+
     justify-content: space-between;
     width: 70%;
+
+}
+.home {
+width: 100%;
+height: 150px;
+background-image: url("./imagens/croche.jpg");
+opacity: 0.1;
 }
 
 body{
@@ -11,6 +21,11 @@ body{
 }
 .produtos{
     width: 100%;
+}
+
+.logo img{
+    width: 200px;
+}
     
 }
 .produtos th {
