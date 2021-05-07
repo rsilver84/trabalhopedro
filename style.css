@@ -9,3 +9,16 @@
 body{
     font-family: 'Courier New', Courier, monospace;
 }
+.produtos{
+    width: 100%;
+    
+}
+.produtos th {
+    width: 33%;
+    height: 150px;
+    align-items: center;
+}
+.produtos td {
+    align-items: center;
+    text-align: center;
+}
